@@ -13,6 +13,7 @@
                 <li>Selfhostable</li>
                 <li>Free Open Source Software</li>
                 <li>Configurable</li>
+                <li>Not only casual chatting</li>
               </ul>
             </div>
           </div>
